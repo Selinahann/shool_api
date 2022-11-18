@@ -1,0 +1,1 @@
+{"options":["e.preventDefault()","e.cancelBubble=true","e.stopPropagation()","e.stopImmediatePropagation()"],"answer":[2],"explanation":"JavaScript事件中如何向上阻止事件冒泡"}
